@@ -1,0 +1,6 @@
+# Python venv
+venv/
+
+# System
+.DS_Store
+Thumbs.db
